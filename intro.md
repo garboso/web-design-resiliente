@@ -1,4 +1,4 @@
-Com um título como Web Design Resiliente, você pode pensar que esse é um manual para criar websites robustos. Esse não é um manual. É algo que se assemelha a livro de história.
+Com um título como Web Design Resiliente, você pode pensar que esse é um manual para criar websites robustos. Esse não é um manual, é um pouco mais parecido com um livro de história.
 
 Marshall McLuhan disse uma vez:
 
